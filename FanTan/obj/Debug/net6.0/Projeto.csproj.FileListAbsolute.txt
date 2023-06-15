@@ -1,0 +1,100 @@
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Projeto.exe
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Projeto.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Projeto.pdb
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.pdb
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\Kognity\source\repos\FanTan\FanTan\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Projeto.exe
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Projeto.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Projeto.pdb
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\WebDriver.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.pdb
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\THAYNAN\Documents\hqprime\HQPrime\FanTan\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Projeto.exe
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Projeto.pdb
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\WebDriver.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.pdb
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\HQPrime0\FanTan\obj\Debug\net6.0\ref\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Projeto.exe
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Projeto.deps.json
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Projeto.runtimeconfig.json
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Projeto.pdb
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\WebDriver.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\bin\Debug\net6.0\WebDriverManager.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.AssemblyInfo.cs
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.csproj.CopyComplete
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\refint\Projeto.dll
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.pdb
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\Projeto.genruntimeconfig.cache
+C:\Users\thaynan.ribeiro.RIOSOFT\Documents\Desktop Doc\Automacao_XP\FanTan\obj\Debug\net6.0\ref\Projeto.dll
