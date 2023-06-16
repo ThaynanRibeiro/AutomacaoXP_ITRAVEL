@@ -637,19 +637,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thaynan.ribeiro.RIOSOFT\\.nuget\\packages\\": {}
+    "C:\\Users\\THAYNAN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\Documents\\Desktop Doc\\Automacao_XP\\FanTan\\Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\THAYNAN\\Documents\\GitHub\\AutomacaoXP_ITRAVEL\\FanTan\\Projeto.csproj",
       "projectName": "Projeto",
-      "projectPath": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\Documents\\Desktop Doc\\Automacao_XP\\FanTan\\Projeto.csproj",
-      "packagesPath": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\Documents\\Desktop Doc\\Automacao_XP\\FanTan\\obj\\",
+      "projectPath": "C:\\Users\\THAYNAN\\Documents\\GitHub\\AutomacaoXP_ITRAVEL\\FanTan\\Projeto.csproj",
+      "packagesPath": "C:\\Users\\THAYNAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\THAYNAN\\Documents\\GitHub\\AutomacaoXP_ITRAVEL\\FanTan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thaynan.ribeiro.RIOSOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\THAYNAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
