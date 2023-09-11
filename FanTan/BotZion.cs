@@ -27,7 +27,7 @@ namespace Projeto
                     dr.FindElement(By.Id("p_lt_ctl00_Login_1_txtPassword")).Click(); // clica no campo da Senha
                     Thread.Sleep(500);
 
-                    dr.FindElement(By.Id("p_lt_ctl00_Login_1_txtPassword")).SendKeys("#ITravel2020"); // digita a senha
+                    dr.FindElement(By.Id("p_lt_ctl00_Login_1_txtPassword")).SendKeys("#ITravel202"); // digita a senha
                     Thread.Sleep(500);
 
                     dr.FindElement(By.Id("p_lt_ctl00_Login_1_btnLogin")).Click(); // clica no botão "Continuar"
